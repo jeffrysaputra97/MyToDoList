@@ -1,4 +1,4 @@
-# my_to_do_list
+# My To Do List
 
 A multiplatform (Android & iOS) mobile app created using Flutter framework to make a simple to do list note.
 
